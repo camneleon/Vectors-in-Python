@@ -5,4 +5,4 @@ A simple Python class for creating Vectors and performing basic vector calculati
 
 ## Motivation
 
-Created just for fun and to show the simplicity of converting math equations into basic Python.
+Created just for fun and to show the simplicity of converting math equations into the Python language.
